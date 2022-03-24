@@ -15,8 +15,8 @@ html {
 
 body {}
 
-.text p {
-    font-family: 'Oswald', sans-serif;
+.text #saction2 p {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
     font-size: 30px;
     font-weight: 450;
 }
